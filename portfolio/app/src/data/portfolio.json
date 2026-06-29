@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "name": "AEON Tết Campaign 2024",
+      "description": "Chiến dịch thiết kế Tết cho AEON Việt Nam bao gồm: Hamper Collection (30+ mẫu giỏ quà), Delica Mâm Cỗ (mâm cỗ truyền thống), Confectionery (kẹo mứt, socola, hạt nhập khẩu), Home Coordy (trang trí nhà Tết), Perishables, Snacks, Beverages, Seasoning và các ấn phẩm đồ họa khác.",
+      "tech": ["Illustrator", "Photoshop", "InDesign"],
+      "thumbnail": "/images/aeon/hamper.jpg"
+    },
+    {
+      "id": "p2",
+      "name": "VIVA BOX Brand Identity",
+      "description": "Thiết kế toàn diện bộ nhận diện thương hiệu VIVA BOX: Logo Viva Fanix, Logo Viva Teach, Poster quảng cáo (5 mẫu), Banner, Combo quà tặng, Nến thơm, Mockup Bịt Mắt và các ấn phẩm marketing.",
+      "tech": ["Illustrator", "Photoshop", "Figma"],
+      "thumbnail": "/images/viva/combo-qua.png"
+    },
+    {
+      "id": "p3",
+      "name": "GLAM Beauty Lookbook",
+      "description": "Thiết kế Lookbook và Catalogue sản phẩm cho GLAM Beauty: Catalogue 16 trang với các dòng sản phẩm skincare và makeup, thiết kế ấn phẩm quảng cáo đối tác thương hiệu (Senka, DP, AN), layout sang trọng với concept làm đẹp hiện đại.",
+      "tech": ["Illustrator", "Photoshop", "InDesign"],
+      "thumbnail": "/images/glam/GB-Senka.jpg"
+    }
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "title": "Trường Đại học Văn Hiến",
+      "period": "2020 - 2024",
+      "description": "Ngành Công nghệ Thông tin. Tập trung vào thiết kế đồ họa, giao diện ngườ dùng và phát triển ứng dụng web."
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "w1",
+      "company": "Viva Box",
+      "position": "Graphic Designer & Live Stream Operations Assistant",
+      "period": "Current role",
+      "description": "Produces product visuals, campaign assets and livestream materials, while supporting the preparation and visual coordination of live selling sessions."
+    },
+    {
+      "id": "w2",
+      "company": "Koushin Communication Vietnam",
+      "position": "Graphic Designer",
+      "period": "Previous",
+      "description": "Developed structured mailer layouts and campaign communication visuals for commercial brands including AEON and Glam Beauty."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "a1",
+      "icon": "Award",
+      "title": "Adobe Certified Professional",
+      "subtitle": "Visual Design - 2024"
+    }
+  ],
+  "skills": [
+    { "name": "Photoshop", "color": "#31A8FF" },
+    { "name": "Illustrator", "color": "#FF9A00" },
+    { "name": "Figma", "color": "#F24E1E" },
+    { "name": "After Effects", "color": "#9999FF" },
+    { "name": "Premiere", "color": "#9999FF" }
+  ],
+  "contacts": [
+    {
+      "icon": "Mail",
+      "label": "Email",
+      "value": "anhkietx500@gmail.com",
+      "url": "mailto:anhkietx500@gmail.com"
+    },
+    {
+      "icon": "Phone",
+      "label": "Phone",
+      "value": "0363240235",
+      "url": "tel:0363240235"
+    },
+    {
+      "icon": "Facebook",
+      "label": "Facebook",
+      "value": "/le.anhkiet.2002",
+      "url": "https://facebook.com/le.anhkiet.2002"
+    },
+    {
+      "icon": "Palette",
+      "label": "Behance",
+      "value": "/anhkietx500",
+      "url": "https://behance.net/anhkietx500"
+    },
+    {
+      "icon": "Github",
+      "label": "GitHub",
+      "value": "/anhkietx500",
+      "url": "https://github.com/anhkietx500"
+    }
+  ]
+}
